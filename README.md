@@ -1,6 +1,6 @@
 **Github Commit Autommation**
 
-In this project I will be building a tool that automatically makes daily GitHub commits in Python. The frequency of commits per day will follow a random number sequence from 1-10. All the notebooks and files I used for this project are available in this repository.
+In this project I will be building a tool that automatically makes daily GitHub commits using Python. The frequency of commits per day will follow a random number sequence from 1-10. All the notebooks and files I used for this project are available in this repository.
 
 My approach to tackeling this project began by separating it into two main parts:
 
