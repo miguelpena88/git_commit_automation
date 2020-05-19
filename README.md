@@ -4,7 +4,7 @@ In this project I will be building a tool that automatically makes daily GitHub 
 
 My approach to tackeling this project began by separating it into two main parts:
 
-1. Automate edits to a notebook--this is needed before making a commit
+1. Automate edits to a notebook--this is needed before making any github commit
 
 2. Automate the command line instructions that will be coming from script
 
@@ -12,7 +12,10 @@ My approach to tackeling this project began by separating it into two main parts
 
 **Background**
 
+The idea for this project came out of necisity. As a data scientist searching for a job in the current job market, I could not spare to have my github contributions calendar overlooked by non-technical recruiters for having some areas of grey, or days of no commits; thus I made this project to boost my github activity.
+
 **Script to command-line**
+
 
 ![github-small](https://raw.githubusercontent.com/rohit120582sharma/Documentation/master/images/git.png)
 
