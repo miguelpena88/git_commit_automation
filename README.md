@@ -1,4 +1,4 @@
-Github Commit Autommation
+#Github Commit Autommation
 
 In this project I will be building a tool that automates the github commit process. I've separated this project into two main parts:
 
