@@ -30,4 +30,5 @@ Now that I have created a function that commits any notebook within the current 
 **Current version**
 
 The current version of this project is meant be run at the beginning of each day to give ample time for proper commit dispersal.
-..
+
+I plan on adding to this project and to its possible use cases. Feel free to reach out with any questions or suggestions! :)
